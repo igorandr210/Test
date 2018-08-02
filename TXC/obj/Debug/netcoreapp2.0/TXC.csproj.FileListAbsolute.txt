@@ -1,0 +1,11 @@
+C:\Users\Igor\source\repos\TXC\TXC\bin\Debug\netcoreapp2.0\TXC.deps.json
+C:\Users\Igor\source\repos\TXC\TXC\bin\Debug\netcoreapp2.0\TXC.runtimeconfig.json
+C:\Users\Igor\source\repos\TXC\TXC\bin\Debug\netcoreapp2.0\TXC.runtimeconfig.dev.json
+C:\Users\Igor\source\repos\TXC\TXC\bin\Debug\netcoreapp2.0\TXC.dll
+C:\Users\Igor\source\repos\TXC\TXC\obj\Debug\netcoreapp2.0\TXC.csprojAssemblyReference.cache
+C:\Users\Igor\source\repos\TXC\TXC\obj\Debug\netcoreapp2.0\TXC.csproj.CoreCompileInputs.cache
+C:\Users\Igor\source\repos\TXC\TXC\obj\Debug\netcoreapp2.0\TXC.AssemblyInfoInputs.cache
+C:\Users\Igor\source\repos\TXC\TXC\obj\Debug\netcoreapp2.0\TXC.AssemblyInfo.cs
+C:\Users\Igor\source\repos\TXC\TXC\bin\Debug\netcoreapp2.0\TXC.pdb
+C:\Users\Igor\source\repos\TXC\TXC\obj\Debug\netcoreapp2.0\TXC.dll
+C:\Users\Igor\source\repos\TXC\TXC\obj\Debug\netcoreapp2.0\TXC.pdb
